@@ -17,6 +17,8 @@ Layihədə istifadəçi hesabları üçün giriş sistemi, interaktiv öyrənmə
 
 `Qeyd : Codeacademy onlayn kod redaktorları, canlı nümunələr ilə bir platform üzərindən rahatlıqla öyrənməni təmin edir.`
 
+---
+
 ### [Cambly](https://www.cambly.com/english?lang=en&utm_source=google&utm_medium=cpc&utm_campaign=OT_C_GG_SRCH_AW_WEB_MAY20_international-cambly_brandname&utm_content=428256424547&utm_term=e_cambly&device=c&devicemodel=&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopUkShp-I6_Dw26GIMDkz9qt0kd157DDAPEnsWBRJ4xV9ysPq1HR-hhoCGmsQAvD_BwE)
 
 **Əhatə dairəsi:**
@@ -35,6 +37,8 @@ Cambly qlobal platformadır və bütün dünyada istifadəçilərə xidmət gös
 - Dil səviyyəsinə uyğun xüsusi dərs planları.
 
 `Qeyd : Cambly istifadəçilərə təkbətək canlı dil dərsləri almaq imkanı təklif edir.`
+
+---
 
 ### [Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.ROW&utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1000998_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=b&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopb1Z8bc825gG-qjMIP9cNFd7lPXUisLkw1sUFYSiQ_xdbJewO-Q7ZRoC9FUQAvD_BwE)
 
