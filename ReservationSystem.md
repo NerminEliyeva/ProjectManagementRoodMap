@@ -21,6 +21,8 @@ Booking.com qlobal miqyasda fəaliyyət göstərən bir platformadır. Dünyanı
 
 `Qeyd : "Booking görüləcək işlər siyahısı" bölməsi ilə daha əyləncəli təcrübə təklif edir.`
 
+---
+
 ### [Trivago](https://www.trivago.com/en-US/lm/hotels-usa?search=200-216;dr-20240126-20240127)
 
 **Əhatə dairəsi:**
@@ -37,6 +39,8 @@ trivago.com qlobal miqyasda fəaliyyət göstərən otel axtarış sistemidir. D
 - Girişlər və təhlükəsizlik.
 
 `Qeyd : Trivago xəritədə axtarış sistemi ilə fərqli bir təcrübə təklif edir.`
+
+---
 
 ### [Expedia](https://www.expedia.com/)
 
