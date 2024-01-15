@@ -1,40 +1,43 @@
 
 ## **Onlayn Təhsil və Kurs İdarəetmə Sistemi**
 
-### [Codecademy](https://www.codecademy.com/courses/learn-c-sharp-lists-and-linq/lessons/csharp-lists/exercises/introduction-to-lists)
+### [ClassTime](https://www.classtime.com)
 
 **Əhatə dairəsi:**
-Layihə müxtəlif proqramlaşdırma dillərində interaktiv kurslar və məşqlər təklif etməklə istifadəçilərə təcrübə keçmək imkanı verir.
+ClassTime.com layihəsi müasir sinif otaqlarında müəllimlər və tələbələr üçün xüsusi olaraq hazırlanmış qiymətləndirmə və öyrənmə platformasını ehtiva edir. Platforma müəllimləri tələbə qiymətləndirməsi, onlayn tədris materialları və rəqəmsal sinif fəaliyyəti ilə təmin etməklə sinif təcrübəsini zənginləşdirməyi hədəfləyir.
 
 **Məqsəd:**
-Codecademy-nin məqsədi istifadəçilərə proqramlaşdırma bacarıqlarını təkmilləşdirməyə kömək etmək və onlara interaktiv öyrənmə təcrübəsi təqdim etməkdir.
+- Tələbələrin qiymətləndirilməsi üçün səmərəli və real vaxt platformasının təmin edilməsi.
+- Müəllimlərə interaktiv dərslər tərtib etmək və tədris materiallarını idarə etmək imkanı təklif etmək.
+- Rəqəmsal sinif fəaliyyətləri ilə tələbələri həyəcanlandırmaq və öyrənməni əyləncəli etmək.
 
 **Ölçüsü:**
-Codecademy dünya üzrə istifadəçilərə müraciət edən qlobal onlayn təhsil platformasıdır.
+ClassTime.com layihəsi tez-tez müasir sinif otaqlarında qlobal səviyyədə istifadə olunur və müəllimlər və tələbələr üçün öyrənmə platforması təmin edir.
 
 **İstifadə olunan strukturlar:**
-Layihədə istifadəçi hesabları üçün giriş sistemi, interaktiv öyrənmə xüsusiyyətləri (onlayn kod redaktorları, canlı nümunələr) və istifadəçilər arasında qarşılıqlı əlaqəni artırmaq üçün forum və ya söhbət kimi funksiyalar mövcuddur.
+- Tələbələrin qiymətləndirilməsi üçün cavab analitikası, real vaxt cavabları və qiymətləndirmə vasitələri.
+- Sual hovuzları, texnologiya tərəfindən dəstəklənən suallar və onlayn tədris materialları üçün vizual materiallar.
+- Rəqəmsal sinif fəaliyyətləri, bulmacalar və tələbələri həyəcanlandırmaq üçün nəzərdə tutulmuş digər fəaliyyətlər üçün əməkdaşlıq çağırışları.
 
-`Qeyd : Codeacademy onlayn kod redaktorları, canlı nümunələr ilə bir platform üzərindən rahatlıqla öyrənməni təmin edir.`
-
-### [Cambly](https://www.cambly.com/english?lang=en&utm_source=google&utm_medium=cpc&utm_campaign=OT_C_GG_SRCH_AW_WEB_MAY20_international-cambly_brandname&utm_content=428256424547&utm_term=e_cambly&device=c&devicemodel=&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopUkShp-I6_Dw26GIMDkz9qt0kd157DDAPEnsWBRJ4xV9ysPq1HR-hhoCGmsQAvD_BwE)
+### [TestInvite](https://www.testinvite.com/lang/tr/index.html)
 
 **Əhatə dairəsi:**
-Cambly dil öyrənmə sahəsində fəaliyyət göstərən onlayn təhsil platformasıdır. Bu, istifadəçilərə təkbətək dil dərsləri keçməyə imkan verir. Tələbələr dil biliklərini təkmilləşdirmək və real vaxtda danışıq təcrübəsini artırmaq üçün dil müəllimləri ilə əlaqə saxlaya bilərlər.
+TestInvite.com layihəsinə onlayn və uzaqdan sınaq, imtahan və inventar müraciəti proseslərini həyata keçirməyə imkan verən uçdan-uca ölçmə-qiymətləndirmə sistemi daxildir. Platforma bir çox növ sualların hazırlanması, imtahanların yaradılması, iştirakçıların idarə edilməsi və ətraflı hesabatların hazırlanması kimi müxtəlif funksiyaları özündə birləşdirir.
 
 **Məqsəd:**
-Cambly-nin əsas məqsədi istifadəçilərə dil öyrənmə prosesində interaktiv təcrübə və dil bacarıqlarını artırmaq üçün təcrübə keçmək imkanı verməkdir.
+- Təhsil müəssisələri və biznes üçün imtahana hazırlıq proseslərini onlayn və effektiv şəkildə idarə etmək.
+- Peşəkar testlərə və inventarlara çıxışı təmin etməklə ölçmə-qiymətləndirmə proseslərini təkmilləşdirmək.
+- Etibarlı və yüksək miqyaslı imtahan mühiti təmin etmək.
 
 **Ölçüsü:**
-Cambly qlobal platformadır və bütün dünyada istifadəçilərə xidmət göstərir. Tələbələr və müəllimlər müxtəlif coğrafi yerlərdən gəlirlər.
+TestInvite.com layihəsi ümumiyyətlə milli və beynəlxalq səviyyələrdə bir çox müəssisə, təşkilat və təhsil müəssisəsi tərəfindən istifadə olunur.
 
 **İstifadə olunan strukturlar:**
-- Tək-tək dil dərsləri.
-- Canlı video danışıq sessiyaları.
-- Tələbə və təlimatçı profilləri.
-- Dil səviyyəsinə uyğun xüsusi dərs planları.
+- Təhlükəsiz giriş sistemləri və istifadəçi hesabının idarə edilməsi.
+- İmtahana hazırlıq redaktoru, sual bankı və inventar idarəetmə vasitələri.
+- Canlı monitorinq və real vaxt rejimində müşahidə infrastrukturu.
+- Xüsusi xüsusiyyətlərə video çəkiliş, ekran qeydi, imtahan təhlükəsizliyi xüsusiyyətləri daxildir.
 
-`Qeyd : Cambly istifadəçilərə təkbətək canlı dil dərsləri almaq imkanı təklif edir.`
 
 ### [Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.ROW&utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1000998_._pd__._&utm_term=_._pd__._kw_udemy_._&matchtype=b&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopb1Z8bc825gG-qjMIP9cNFd7lPXUisLkw1sUFYSiQ_xdbJewO-Q7ZRoC9FUQAvD_BwE)
 
