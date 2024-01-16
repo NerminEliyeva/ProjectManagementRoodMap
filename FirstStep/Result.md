@@ -14,10 +14,12 @@ Onlayn İmtahan Sistemi təhsil müəssisələri, şirkətlər üçün müxtəli
 **Ölçüsü:**
 BU proyekt Azərbaycana yönəlmiş yerli miqyasda fəaliyyət göstərəcək.
 
-**İstifadə olunan strukturlar:**
+**İstifadə olunacaq strukturlar:**
 - Təhlükəsiz Giriş: İstifadəçinin autentifikasiyası və təhlükəsiz giriş üsulları.
-- Sual növləri: Çox seçimli, doğru/yanlış, qısa cavab kimi müxtəlif sual növlərini dəstəkləyən imtahana hazırlıq sistemi.
+- İdarəedilə bilən imtahan strukturu: Ümimi və xüsusi paylaşım imkanı, vaxt idarəsi, sual tipi seçimləri,excel-dən sual yükləmə imkanı.
 - Hesabat və Təhlil: Tələbə performansının monitorinqi, sual təhlili və imtahan nəticələrinə dair ətraflı hesabatlar.
-- Tələbə İdarəetmə: İstifadəçi hesabları, imtahanlara dəvətlər, tələbələrin gedişatının monitorinqi və imtahanlar arasında keçid təmin edən idarəetmə paneli.
-- Xəbərlər sistemi: Müəllim rolu tərəfindən paylaşılan ümumi imtahan üçün elan istifadəçilərin ana səhifəsində görünəcək.
-- Bildirim sistemi: Tələbə öz seçdiyi kategoriya üzrə paylaşım olduqda bildirim (mail) alsın.
+- Tələbə İdarəetmə: İstifadəçi hesabları, imtahanlara dəvətlər, tələbələrin gedişatının monitorinqi.
+- Xəbərlər sistemi: Müəllim rolu tərəfindən paylaşılan ümumi imtahan üçün elan istifadəçilərin ana səhifəsində görünməsi.
+- Bildirim sistemi: Tələbənin öz seçdiyi kategoriya üzrə paylaşım olduqda bildirim (mail) alması.
+
+
