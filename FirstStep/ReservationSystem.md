@@ -1,5 +1,5 @@
 
-## **Rezervasyon ve Etkinlik Yönetim Sistemi**
+## **Rezervasiya Sistemi**
 
 ### [Booking](https://www.booking.com/attractions/index.tr.html?aid=304142&label=gen173rf-1FEgRjYXJzKIICOOgHSDNYA2gRiAEBmAEouAEXyAEM2AEB6AEB-AELiAIBmAIiqAIDuALdpo-tBsACAdICJGU1NjBlOTZmLTE1MzctNDZmZi04MGZjLTUwNzI5ZDAyYWRjYtgCBuACAQ&sid=e46fe35eb09794f58b023dfd041fadcf)
 
